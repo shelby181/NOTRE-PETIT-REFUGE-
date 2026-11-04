@@ -213,9 +213,9 @@ footer {
             </p>
 
             <p>
-                Même lorsque tu n'est pas prêt de moi,
+                Même lorsque tu n'es pas près de moi ❤,
                 tu gardes une place particulière dans mes pensées.
-                J'aimerais toujours être là pour tes sourires,
+                J'aimerais toujours être là pour tes sourires 🫂,
                 tes réussites, tes petits moments de joie
                 et même tes journées difficiles.
             </p>
