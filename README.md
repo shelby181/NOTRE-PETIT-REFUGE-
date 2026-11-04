@@ -1,6 +1,6 @@
 # NOTRE-PETIT-REFUGE-
 Pour toi mon Cœur ❤🫂
-<!DOCTYPE html>
+
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
